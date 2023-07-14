@@ -59,7 +59,7 @@ Steam boiler of Create and Charcoal forge of TerraFirmaCraft Compatibility.
 [[dependencies.create]]
     modId="create"
     mandatory=true
-    versionRange="[0.5.0.e,)"
+    versionRange="[0.5.1.a,)"
     ordering="NONE"
     side="BOTH"
 [[dependencies.tfc]]

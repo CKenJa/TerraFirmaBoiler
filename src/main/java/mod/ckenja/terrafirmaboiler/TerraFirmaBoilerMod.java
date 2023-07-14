@@ -10,8 +10,8 @@ import net.minecraftforge.fml.event.lifecycle.FMLCommonSetupEvent;
 import net.minecraftforge.fml.javafmlmod.FMLJavaModLoadingContext;
 import org.slf4j.Logger;
 
-import static com.simibubi.create.content.contraptions.fluids.tank.BoilerHeaters.registerHeater;
-import static com.simibubi.create.content.contraptions.fluids.tank.BoilerHeaters.registerHeaterProvider;
+import static com.simibubi.create.content.fluids.tank.BoilerHeaters.registerHeater;
+import static com.simibubi.create.content.fluids.tank.BoilerHeaters.registerHeaterProvider;
 
 @Mod(BuildConfig.MODID)
 public class TerraFirmaBoilerMod {
